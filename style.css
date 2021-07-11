@@ -1,0 +1,182 @@
+/* dedut des modification  */
+*{
+    box-sizing: border-box;
+}
+
+    
+
+
+.text-insc {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+.submit :hover{
+    background:#0cda5b;
+}
+.butoon{
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 50px; 
+    padding-right: 50px;
+    border-radius: 50px;
+    background: red;
+    cursor: pointer;
+    margin:20px;
+
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family:sans-serif;
+    background: url(img.html/20201220_112314.jpg);
+    background-size:cover;
+    height: 100vh;
+    background-position: center;
+}
+.formulair input{
+    width:200px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 5px;
+    border-top: 5px solid #f54755 ;
+    border:none;
+
+    
+}
+
+
+.formulair{
+    font-weight: bold;
+    border: 1px solid;
+    border-top: 10px solid #f54755 ;
+    border-bottom: 10px solid #f54755;
+    box-shadow: 0 0 50px #f000f0;
+    width:290px;
+    height: 460px;
+    background-color:rgba(0 ,0 , 0, 0);
+    border-radius:20px;
+    margin:auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right:0;
+    bottom:0;
+    text-align:center;
+    padding:10px;
+    border:none;
+
+    
+}
+.contenairi{
+    border: 1px solid ;
+
+}
+
+
+    
+    
+
+
+
+
+
+
+/* fins des mes modifications */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+@import url('https://fonts.googleapis.com/css2? famille=Open+Sans:ital,wght@1,300;1,400&display=swap');
+
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-decoration: none;
+    transition: all .2s cubic-bezier(.37,1.14,.26,1.24);
+
+}
+*::selection{
+    background: #ff3300;
+    color: #fff;
+}
+
+header .header-1 .logo i{
+        color: var(--blue);
+
+}
+header .header-1 .form-container form{
+    display: flex;
+
+}
+  .header-1 .form-container form #search {
+    height: 4rem;
+    width: 50rem;
+    
+    outline: none;
+    border: 2rem solid #666;
+    font-size: 1.5rem;
+    padding: 0 1rem; 
+}
+
+
+
+header .header-2 .navbar{
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0 0 0 100vh rgba(0, 0,0,.3);
+    z-index: 1000 ;
+  
+   
+
+}
+
+header .header-2 .navbar ul{
+    flex-flow: column;
+    background: linear-gradient(var(--blue), blueviolet);
+    border: 2rem solid #fff  ;
+    box-shadow: ;
+    width: 27rem;
+
+}  */
